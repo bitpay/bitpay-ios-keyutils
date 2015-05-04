@@ -40,8 +40,8 @@ s.author           = { "Chris Kleeschulte" => "chrisk@bitpay.com" }
 s.source           = { :git => "https://github.com/bitpay/bitpay-ios-keyutils.git", :tag => "v#{s.version}" }
 s.platform     = :ios, '7.0'
 s.requires_arc = true
-s.public_header_files = "*.h"
-s.source_files = 'keyutils.{h,m}'
-s.vendored_frameworks = 'openssl.framework'
-s.vendored_libraries = 'libcrypto.a'
+s.public_header_files = "Classes/*.h"
+s.source_files = 'Classes/*.{h,m}'
+s.vendored_frameworks = 'Frameworks/openssl.framework'
+s.vendored_libraries = 'libs/libcrypto.a'
 end
