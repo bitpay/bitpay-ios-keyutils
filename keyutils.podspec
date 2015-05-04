@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-s.name             = "bitpay-ios-sdk"
+s.name             = "bitpay-ios-keyutils"
 s.version          = "2.0.1"
 s.summary          = "Powerful, flexible, lightweight interface to the BitPay Bitcoin Payment Gateway API for iOS."
 s.description      = <<-DESC
@@ -21,7 +21,7 @@ Let us know! Send a pull request or a patch. Questions? Ask! We're here to help.
 
 **BitPay Support:**
 
-* [GitHub Issues](https://github.com/bitpay/ios-sdk/issues)
+* [GitHub Issues](https://github.com/bitpay/bitpay-ios-keyutils/issues)
 * Open an issue if you are having issues with this library
 * [Support](https://support.bitpay.com)
 * BitPay merchant support documentation
@@ -37,7 +37,7 @@ DESC
 s.homepage         = "https://github.com/bitpay/bitpay-ios-keyutils"
 s.license      = 'MIT'
 s.author           = { "Chris Kleeschulte" => "chrisk@bitpay.com" }
-s.source           = { :git => "https://github.com/bitpay/ios-sdk.git", :tag => "v#{s.version}" }
+s.source           = { :git => "https://github.com/bitpay/bitpay-ios-keyutils.git", :tag => "v#{s.version}" }
 s.platform     = :ios, '7.0'
 s.requires_arc = true
 s.public_header_files = "*.h"
