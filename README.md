@@ -2,8 +2,8 @@
 Powerful, flexible, lightweight interface to the BitPay Bitcoin Payment Gateway API.
 
 [![Software License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat)](LICENSE.md) 
-[![](https://travis-ci.org/bitpay/ios-sdk.svg?branch=master)](https://travis-ci.org/bitpay/bitpay-ios-keyutils)
-[![](https://img.shields.io/cocoapods/v/bitpay-ios-sdk.svg)](https://github.com/bitpay/bitpay-ios-keyutils/releases/latest/)
+[![](https://travis-ci.org/bitpay/bitpay-ios-keyutils.svg?branch=master)](https://travis-ci.org/bitpay/bitpay-ios-keyutils)
+[![](https://img.shields.io/cocoapods/v/bitpay-ios-keyutils.svg)](https://github.com/bitpay/bitpay-ios-keyutils/releases/latest/)
 
 ## [Getting Started &raquo;](http://dev.bitpay.com/guides/ios.html)
 
@@ -23,7 +23,7 @@ Let us know! Send a pull request or a patch. Questions? Ask! We're here to help.
 
 **BitPay Support:**
 
-* [GitHub Issues](https://github.com/bitpay/ios-sdk/issues)
+* [GitHub Issues](https://github.com/bitpay/bitpay-ios-sdk/issues)
 * Open an issue if you are having issues with this library
 * [Support](https://support.bitpay.com)
 * BitPay merchant support documentation
