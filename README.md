@@ -1,4 +1,4 @@
-# BitPay Library for iOS 
+# BitPay Library for iOS Key Utils 
 Powerful, flexible, lightweight interface to the BitPay Bitcoin Payment Gateway API.
 
 [![Software License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat)](LICENSE.md) 
