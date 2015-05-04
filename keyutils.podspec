@@ -34,7 +34,7 @@ Sometimes a download can become corrupted for various reasons.  However, you can
 * On OS X use the md5 program.  For example:
 * md5 filename
 DESC
-s.homepage         = "https://github.com/bitpay/ios-sdk"
+s.homepage         = "https://github.com/bitpay/bitpay-ios-keyutils"
 s.license      = 'MIT'
 s.author           = { "Chris Kleeschulte" => "chrisk@bitpay.com" }
 s.source           = { :git => "https://github.com/bitpay/ios-sdk.git", :tag => "v#{s.version}" }
