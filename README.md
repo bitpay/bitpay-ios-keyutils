@@ -1,9 +1,9 @@
 # BitPay Library for iOS Key Utils 
 Powerful, flexible, lightweight interface to the BitPay Bitcoin Payment Gateway API.
 
-[![Software License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat)](LICENSE.md) 
-[![](https://travis-ci.org/bitpay/bitpay-ios-keyutils.svg?branch=master)](https://travis-ci.org/bitpay/bitpay-ios-keyutils)
-[![](https://img.shields.io/cocoapods/v/bitpay-ios-keyutils.svg)](https://github.com/bitpay/bitpay-ios-keyutils/releases/latest/)
+[![Software License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE.md) 
+[![](https://img.shields.io/travis/bitpay/bitpay-ios-keyutils.svg?style=flat-square)](https://travis-ci.org/bitpay/bitpay-ios-keyutils)
+[![](https://img.shields.io/cocoapods/v/bitpay-ios-keyutils.svg?style=flat-square)](https://github.com/bitpay/bitpay-ios-keyutils/releases/latest/)
 
 ## [Getting Started &raquo;](http://dev.bitpay.com/guides/ios.html)
 
