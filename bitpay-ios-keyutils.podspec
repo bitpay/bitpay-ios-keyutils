@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = "bitpay-ios-keyutils"
-s.version          = "2.0.2"
+s.version          = "2.0.3"
 s.summary          = "Powerful, flexible, lightweight interface to the BitPay Bitcoin Payment Gateway API for iOS."
 s.description      = <<-DESC
 ## [Getting Started &raquo;](http://dev.bitpay.com/guides/ios.html)
@@ -38,7 +38,7 @@ s.homepage         = "https://github.com/bitpay/bitpay-ios-keyutils"
 s.license      = 'MIT'
 s.author           = { "Chris Kleeschulte" => "chrisk@bitpay.com" }
 s.source           = { :git => "https://github.com/bitpay/bitpay-ios-keyutils.git", :tag => "v#{s.version}" }
-s.platform     = :ios, '7.0'
+s.platform     = :ios
 s.requires_arc = true
 s.public_header_files = "Classes/*.h"
 s.source_files = 'Classes/*.{h,m}'
